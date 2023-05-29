@@ -1,3 +1,5 @@
+//font families and screen sizes
+
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: ["./index.html", "./src/**/*.{js,jsx}"],

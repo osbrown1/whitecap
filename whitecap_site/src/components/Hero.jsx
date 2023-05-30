@@ -1,7 +1,7 @@
-import React from "react";
+import wheatFields from "/img/hero/wheat-fields.jpg";
 
-const Hero = () => {
-  return <div>Hero</div>;
-};
+function Hero() {
+  return <div className="hero-1"></div>;
+}
 
 export default Hero;

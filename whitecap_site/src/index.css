@@ -18,6 +18,32 @@
   scroll-behavior: smooth;
 }
 
+/* TODO: 
+
+- Update body to use TailWind.
+- Update class logo to use TailWind for sizing if possible
+
+*/
+body {
+  background: #d9d9d9;
+}
+
+.top {
+  background: #ffffff;
+  border-bottom: 2px solid #d9d9d9;
+}
+
+.top .logo img {
+  width: 50%;
+  height: 50%;
+}
+
+.hero-1 {
+  background: url('/img/hero/wheat-fields.jpg');
+  background-size: cover;
+  height: 300px;
+}
+
 .text-gradient {
   background: radial-gradient(
     64.18% 64.18% at 71.16% 35.69%,

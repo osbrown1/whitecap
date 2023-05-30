@@ -1,7 +1,7 @@
 //All the static text shown on the website
 
 
-import { people01, people02, people03, facebook, instagram, linkedin, twitter, } from "../assets";
+// import { people01, people02, people03, facebook, instagram, linkedin, twitter, } from "../assets";
 
 export const navLinks = [
   {

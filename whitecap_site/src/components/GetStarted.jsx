@@ -1,9 +1,9 @@
-import React from 'react'
+import React from 'react';
 
-const GetStarted = () => {
+function GetStarted() {
   return (
     <div>GetStarted</div>
-  )
+  );
 }
 
-export default GetStarted
+export default GetStarted;

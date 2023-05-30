@@ -1,12 +1,10 @@
-import {useState} from 'react'
+import { useState } from "react";
 
-import { close, logo, menu } from '../assets';
-import { navLinks } from '../constants;'
+// import { close, logo, menu } from '../assets';
+// import { navLinks } from '../constants'
 
-const Navbar = () => {
-  return (
-    <div>Navbar</div>
-  )
+function Navbar() {
+  return <div>Navbar</div>;
 }
 
-export default Navbar
+export default Navbar;
